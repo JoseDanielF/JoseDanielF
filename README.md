@@ -2,7 +2,7 @@
 
 Hi! I'm Daniel Duarte. I reside in Quipapá-PE, Brazil, and I'm currently pursuing my Bachelor's in Computer Science at UFAPE.
 
-🔭 Full-Stack Developer with extensive experience in creating robust and scalable solutions using both the PHP ecosystem and the .NET platform. Currently, I am a Developer .NET at MSATEC, where I lead integration projects, applying best development practices to ensure high performance and process optimization.
+🔭 Full-Stack Developer with extensive experience in creating robust and scalable solutions using both the PHP ecosystem and the .NET platform. Currently, I am a Developer .NET PL at MSA TEC, where I lead integration projects, applying best development practices to ensure high performance and process optimization.
 
 ## 💜 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jdanielduarte/)  [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5581993022851) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/danieelduarte_/)
