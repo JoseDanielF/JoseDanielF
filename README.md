@@ -1,6 +1,6 @@
 ## 👋 Hello World!
 
-Hi! I'm Daniel Duarte. I reside in Quipapá-PE, Brazil, and I'm currently pursuing my Bachelor's in Computer Science at UFAPE.
+Hi! I'm Daniel Duarte. I reside in Quipapá-PE, Brazil, and I hold a Bachelor's degree in Computer Science from UFAPE.
 
 🔭 Full-Stack Developer with extensive experience in creating robust and scalable solutions using both the PHP ecosystem and the .NET platform. Currently, I am a Developer .NET PL at MSA TEC, where I lead integration projects, applying best development practices to ensure high performance and process optimization.
 
